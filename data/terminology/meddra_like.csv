@@ -1,0 +1,11 @@
+reported_term,llt,pt,hlt,hlgt,soc
+headache,Headache,Headache,Headaches,Neurological signs and symptoms,Nervous system disorders
+severe headache,Severe headache,Headache,Headaches,Neurological signs and symptoms,Nervous system disorders
+nausea,Nausea,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastrointestinal disorders
+vomiting,Vomiting,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastrointestinal disorders
+rash,Rash,Rash,Rashes eruptions and exanthems,General system disorders,Skin and subcutaneous tissue disorders
+skin rash,Skin rash,Rash,Rashes eruptions and exanthems,General system disorders,Skin and subcutaneous tissue disorders
+ALT increased,Alanine aminotransferase increased,Alanine aminotransferase increased,Hepatic enzyme analyses,Hepatobiliary investigations,Investigations
+liver enzymes elevated,Liver enzymes increased,Transaminases increased,Hepatic enzyme analyses,Hepatobiliary investigations,Investigations
+anaphylaxis,Anaphylaxis,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immune system disorders
+fever,Pyrexia,Pyrexia,Febrile disorders,Body temperature conditions,General disorders and administration site conditions
