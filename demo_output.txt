@@ -1,0 +1,11 @@
+Q: What is the liver safety profile of AX-101?
+A: Reversible ALT/transaminase elevations are consistently described across the CTD, RMP, SmPC, USPI and DSUR-style documents. The evidence supports monitoring and a potential-risk classification, but the demo corpus does not establish severe drug-induced liver injury.
+
+Q: Is anaphylaxis an identified risk?
+A: Anaphylaxis is not established as an identified risk in the demo corpus. A DSUR case was possibly related but confounded, and the PBRER states causality remains uncertain with ongoing surveillance warranted.
+
+Q: Generate the compound safety risk profile
+A: Demonstrates identified/common reactions, potential/monitored liver risk, and anaphylaxis as a signal under evaluation.
+
+Q: MedDRA map: severe headache
+A: Demo terminology mapping: severe headache -> LLT=Severe headache -> PT=Headache -> HLT=Headaches -> HLGT=Neurological signs and symptoms -> SOC=Nervous system disorders.
